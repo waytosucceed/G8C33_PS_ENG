@@ -1,0 +1,311 @@
+{
+  "heading": "Questions and Answers",
+  "topics": [
+    {
+      "heading": "Present Continuous and Past Continuous Tense",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank appropriately:<br> While I was ____ the garden, my neighbour was ____ her dog.",
+          "options": [
+            "tending, walking",
+            "tended, walking",
+            "tending, walked",
+            "tended, walks"
+          ],
+          "answer": 0,
+          "explanation": "Both actions were happening simultaneously in the past, so both verbs should be in the past continuous tense."
+        },
+        {
+          "questionNo": 2,
+          "question": "She is ____ a new book, but I don't know when she will ____ it.",
+          "options": [
+            "writing, finish",
+            "writes, finishes",
+            "writing, finishing",
+            "wrote, finished"
+          ],
+          "answer": 0,
+          "explanation": "The first action is ongoing (present continuous), while the second action is future."
+        },
+        {
+          "questionNo": 3,
+          "question": "Spot the error in the following question:<br> The children plays in the park while their parents are having a picnic.",
+          "options": [
+            "plays",
+            "are playing",
+            "played",
+            "No error"
+          ],
+          "answer": 1,
+          "explanation": "Both actions are happening simultaneously in the present, so both verbs should be in the present continuous tense."
+        },
+        {
+          "questionNo": 4,
+          "question": "Spot the error in the following sentence:<br> She was reading a book while her friend cooks.",
+          "options": [
+            "was reading",
+            "cooks",
+            "was cooking",
+            "No error"
+          ],
+          "answer": 2,
+          "explanation": "Both actions were happening simultaneously in the past, so both verbs should be in the past continuous tense."
+        },
+        {
+          "questionNo": 5,
+          "question": "Spot the error in the following sentence:<br> The students were studying while the teacher entered the classroom.",
+          "options": [
+            "were studying",
+            "entered",
+            "was entering",
+            "No error"
+          ],
+          "answer": 3,
+          "explanation": "The first action (\"studying\") was ongoing when the second action (\"entered\") occurred. Therefore, the first verb is correctly in the past continuous tense, and the second verb is in the past simple tense."
+        },
+        {
+          "questionNo": 6,
+          "question": "Which sentence is grammatically correct?",
+          "options": [
+            "She is playing football every weekend.",
+            "She is play football every weekend.",
+            "She is playing football now.",
+            "She is play football now."
+          ],
+          "answer": 2,
+          "explanation": "Present Continuous is used for actions happening right now. The correct structure is: Subject + is/am/are + verb-ing."
+        },
+        {
+          "questionNo": 7,
+          "question": "Identify the Present Continuous sentence:",
+          "options": [
+            "He will be leaving for school tomorrow.",
+            "He was leaving for school at that moment.",
+            "He is leaving for school right now.",
+            "He left for school yesterday."
+          ],
+          "answer": 2,
+          "explanation": "Present Continuous describes an action happening now. In C, \"is leaving\" refers to an ongoing action."
+        },
+        {
+          "questionNo": 8,
+          "question": "Which of these uses Present Continuous tense for future arrangements?",
+          "options": [
+            "I am meeting my boss tomorrow.",
+            "I meet my boss tomorrow.",
+            "I was meeting my boss tomorrow.",
+            "I will meet my boss tomorrow."
+          ],
+          "answer": 0,
+          "explanation": "Present Continuous can be used for scheduled future events when the arrangement is certain."
+        },
+        {
+          "questionNo": 9,
+          "question": "Choose the sentence that correctly uses Past Continuous:",
+          "options": [
+            "They were eating dinner when the phone rang.",
+            "They are eating dinner when the phone rang.",
+            "They eat dinner when the phone rang.",
+            "They will eat dinner when the phone rang."
+          ],
+          "answer": 0,
+          "explanation": "Past Continuous is used to describe an action that was happening when another event occurred."
+        },
+        {
+          "questionNo": 10,
+          "question": "Identify the sentence in Past Continuous:",
+          "options": [
+            "We were driving home when we saw the accident.",
+            "We drive home when we saw the accident.",
+            "We drove home when we saw the accident.",
+            "We are driving home when we saw the accident."
+          ],
+          "answer": 0,
+          "explanation": "Past Continuous describes an ongoing action that was happening when a past event occurred."
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank by choosing the most appropriate option:<br> Right now, the students _______ for their exams.",
+          "options": [
+            "are preparing",
+            "prepare",
+            "were preparing",
+            "is preparing"
+          ],
+          "answer": 0,
+          "explanation": "The Present Continuous is used for actions happening at the moment of speaking. The correct structure is subject (plural) + are + verb-ing, so 'are preparing' is the correct answer."
+        },
+        {
+          "questionNo": 12,
+          "question": "Fill in the blank by choosing the most appropriate option:<br> We _______ a play for the school competition these days.",
+          "options": [
+            "rehearses",
+            "are rehearsing",
+            "were rehearsing",
+            "rehearsed"
+          ],
+          "answer": 1,
+          "explanation": "'These days' suggests an ongoing action, so Present Continuous is needed. Since the subject is plural (we), 'are rehearsing' is the correct form."
+        },
+        {
+          "questionNo": 13,
+          "question": "Fill in the blank by choosing the most appropriate option:<br> My father _______ dinner for us right now.",
+          "options": [
+            "is preparing",
+            "prepares",
+            "was preparing",
+            "prepare"
+          ],
+          "answer": 0,
+          "explanation": "'Right now' signals an action happening at the moment, requiring Present Continuous tense. For the singular subject 'my father,' the correct form is 'is preparing.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank by choosing the most appropriate option:<br> The teacher _______ the students during the class at the moment.",
+          "options": [
+            "is observing",
+            "was observing",
+            "observes",
+            "were observing"
+          ],
+          "answer": 0,
+          "explanation": "The phrase 'at the moment' requires Present Continuous. For the singular subject 'the teacher,' the correct form is 'is observing.'"
+        },
+        {
+          "questionNo": 15,
+          "question": "Fill in the blank by choosing the most appropriate option:<br> She _______ when I called her yesterday evening.",
+          "options": [
+            "is studying",
+            "was studying",
+            "studied",
+            "were studying"
+          ],
+          "answer": 1,
+          "explanation": "'Yesterday evening' refers to a past action that was ongoing at a specific moment, which requires the Past Continuous tense. For the singular subject 'she,' the correct form is 'was studying.'"
+        },
+        {
+          "questionNo": 16,
+          "question": "Fill in the blank by choosing the most appropriate option:<br> They _______ to the airport when the accident happened.",
+          "options": [
+            "were driving",
+            "are driving",
+            "drove",
+            "drive"
+          ],
+          "answer": 0,
+          "explanation": "The phrase 'when the accident happened' indicates that an ongoing action (driving) was interrupted by a specific event, which requires the Past Continuous tense. The correct form for the plural subject 'they' is 'were driving.'"
+        },
+        {
+          "questionNo": 17,
+          "question": "Fill in the blank by choosing the most appropriate option:<br> While we _______ dinner, the guests arrived.",
+          "options": [
+            "was having",
+            "were having",
+            "are having",
+            "have"
+          ],
+          "answer": 1,
+          "explanation": "The use of 'while' indicates that an action (having dinner) was ongoing in the past when another action occurred. For the plural subject 'we,' the correct form is 'were having.'"
+        },
+        {
+          "questionNo": 18,
+          "question": "Convert the sentence to Past Continuous:<br> She is constantly interrupting the meeting with questions.",
+          "options": [
+            "She was constantly interrupting the meeting with questions yesterday.",
+            "She were constantly interrupting the meeting with questions yesterday.",
+            "She was constantly interrupting the meeting with questions tomorrow.",
+            "She is constantly interrupting the meeting with questions yesterday."
+          ],
+          "answer": 0,
+          "explanation": "The phrase 'constantly interrupting' describes an ongoing action in the past. The correct form is was + verb-ing for singular subjects in the Past Continuous."
+        },
+        {
+          "questionNo": 19,
+          "question": "Convert the sentence to Past Continuous:<br> They are preparing for the presentation right now.",
+          "options": [
+            "They was preparing for the presentation last night.",
+            "They were preparing for the presentation last night.",
+            "They were preparing for the presentation tomorrow night.",
+            "They are preparing for the presentation last night."
+          ],
+          "answer": 1,
+          "explanation": "'They were' is the correct Past Continuous form for plural subjects. The phrase 'last night' is used to indicate a past action."
+        },
+        {
+          "questionNo": 20,
+          "question": "Convert the sentence to Past Continuous:<br> I am writing a report on financial analysis at the moment.",
+          "options": [
+            "I was writing a report on financial analysis at that moment.",
+            "I am writing a report on financial analysis at that moment.",
+            "I were writing a report on financial analysis at that moment.",
+            "I was writing a report on financial analysis now."
+          ],
+          "answer": 0,
+          "explanation": "The phrase 'at that moment' refers to a specific point in the past, requiring Past Continuous. 'Was writing' is the correct form for the singular subject 'I.'"
+        },
+        {
+          "questionNo": 21,
+          "question": "Fill in the blanks appropriately:<br> ________ the students __________ (review) the chapters thoroughly when the fire alarm went off?",
+          "options": [
+            "Were / reviewing",
+            "Did / review",
+            "Are / reviewing",
+            "Had / reviewed"
+          ],
+          "answer": 0,
+          "explanation": "In past continuous interrogative sentences, 'were' + subject + present participle (verb+ing) asks if the action was ongoing at a specific past moment."
+        },
+        {
+          "questionNo": 22,
+          "question": "Fill in the blank appropriately:<br> The engineers __________ (not / fix) the malfunctioning software when the client called for an update.",
+          "options": [
+            "were not fixing",
+            "did not fix",
+            "are not fixing",
+            "had not fixed"
+          ],
+          "answer": 0,
+          "explanation": "In past continuous negative sentences, 'were not' + present participle (verb+ing) indicates that the action was not ongoing at a specific past time."
+        },
+        {
+          "questionNo": 23,
+          "question": "Fill in the blank appropriately:<br> We __________ (not / consider) changing the project scope until after the initial feedback was received.",
+          "options": [
+            "were not considering",
+            "did not consider",
+            "are not considering",
+            "have not considered"
+          ],
+          "answer": 0,
+          "explanation": "'Were not considering' indicates that the action of considering changes was not ongoing at a specific past time."
+        },
+        {
+          "questionNo": 24,
+          "question": "Fill in the blank by choosing the most appropriate option:<br> The manager _______ the report when the meeting started.",
+          "options": [
+            "was reviewing",
+            "is reviewing",
+            "reviewed",
+            "has reviewed"
+          ],
+          "answer": 0,
+          "explanation": "The phrase 'when the meeting started' indicates that the action of reviewing was ongoing and was interrupted by another event."
+        },
+        {
+          "questionNo": 25,
+          "question": "Which sentence correctly uses the Present Continuous tense?<br>",
+          "options": [
+            "They are learning Spanish at school.",
+            "They are learn Spanish at school.",
+            "They learns Spanish at school.",
+            "They learning Spanish at school."
+          ],
+          "answer": 0,
+          "explanation": "The correct structure for Present Continuous is subject + is/am/are + verb-ing. 'They are learning' is correct."
+        }
+      ]
+    }
+  ]
+}
+      
